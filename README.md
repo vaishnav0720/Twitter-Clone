@@ -32,7 +32,6 @@ The UI is designed to closely resemble the Twitter web interface, focusing on la
 - `tailwind.config.js` – Tailwind CSS configuration
 - `README.md` – Project documentation
 
-
 ## Demo
 
 Open `index.html` in your browser to view the Twitter Clone UI.
@@ -40,8 +39,10 @@ Open `index.html` in your browser to view the Twitter Clone UI.
 ---
 
 **How to run Tailwind CSS build:**
+```sh
 npm install
 npm run build
+```
 
 This will watch for changes and update `css/output.css` automatically.
 
